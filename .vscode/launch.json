@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Davidson_Mod1_3_CSD420",
+      "request": "launch",
+      "mainClass": "Davidson_Mod1_3_CSD420",
+      "vmArgs": "--module-path \"C:\\javafx-sdk\\lib\" --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}
