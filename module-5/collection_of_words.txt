@@ -1,0 +1,6 @@
+Java is powerful and Java is useful.
+Collections help organize data in Java programs.
+Sets remove duplicate words and Maps store key value pairs.
+Learning Java takes practice and patience.
+Practice makes coding easier and more natural.
+Trees, sets, maps, and lists are all part of collections.
