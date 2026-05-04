@@ -1,0 +1,22 @@
+/*
+ * Name: Tiffany Davidson
+ * Assignment: Module 7.2
+ * Course: CSD420
+ *
+ * This CSS file styles the circles used in the JavaFX program.
+ */
+
+.plaincircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+#redcircle {
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+#greencircle {
+    -fx-fill: green;
+    -fx-stroke: green;
+}
